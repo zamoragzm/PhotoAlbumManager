@@ -1,0 +1,2 @@
+# PhotoAlbumManager
+Academic Project
